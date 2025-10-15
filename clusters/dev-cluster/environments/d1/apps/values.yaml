@@ -13,3 +13,5 @@ spec:
     helmchartVersion: 0.1.0
   ljdebrabander: 
     helmchartVersion: 0.1.0
+  dnt1976:  
+    helmchartVersion: 0.1.0
